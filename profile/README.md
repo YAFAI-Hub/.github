@@ -7,7 +7,7 @@
 **What is an Agentic Workspace?** <br>
 YAFAI's agentic workspaces are a collection of purpose built agents working together to achieve a common goal.Think of this like a team of helpful assistants that can solve tasks for you using available integrations.
 
-![Yafai Workspaces](https://github.com/YAFAI-Hub/core/tree/main/yafai-workspaces.png)
+![Yafai Workspaces](https://github.com/YAFAI-Hub/core/blob/main/assets/yafai-workspaces.png)
 
 ### What is YAFAI?
 
@@ -15,7 +15,7 @@ YAFAI's agentic workspaces are a collection of purpose built agents working toge
 
 Yafai follows an **opinionated orchestration flow**, but gives you **complete control** over what happens within it. Everything is defined through **declarative YAML**, making the system easy to configure, extend, and integrate — all from a single binary.
 
-Read more about the design choice at [Design Doc](https://github.com/YAFAI-Hub/core/tree/main/design.md).
+Read more about the design choice at [Design Doc](https://github.com/YAFAI-Hub/core/blob/main/assets/design.md).
 
 One binary. Full control. Declarative multi-agent orchestration made simple.
 
@@ -48,7 +48,7 @@ One binary. Full control. Declarative multi-agent orchestration made simple.
     
 ```
 
-<img src="https://github.com/YAFAI-Hub/core/tree/main/assets/tui-mode.png" width=800 height=480>
+<img src="https://github.com/YAFAI-Hub/core/blob/main/assets/tui-mode.png" width=800 height=480>
 
 
 ### Run YAFAI Link - No TerminalUI
@@ -64,7 +64,7 @@ One binary. Full control. Declarative multi-agent orchestration made simple.
 
 ```
 
-![Yafai Link](https://github.com/YAFAI-Hub/core/tree/main/assets/link-mode.png)
+![Yafai Link](https://github.com/YAFAI-Hub/core/blob/main/assets/link-mode.png)
 
 
 
