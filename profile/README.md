@@ -15,7 +15,7 @@ YAFAI's agentic workspaces are a collection of purpose built agents working toge
 
 Yafai follows an **opinionated orchestration flow**, but gives you **complete control** over what happens within it. Everything is defined through **declarative YAML**, making the system easy to configure, extend, and integrate — all from a single binary.
 
-Read more about the design choice at [Design Doc](https://github.com/YAFAI-Hub/core/blob/main/assets/design.md).
+Read more about the design choice at [Design Doc](https://github.com/YAFAI-Hub/core/blob/main/assets/flow.md).
 
 One binary. Full control. Declarative multi-agent orchestration made simple.
 
